@@ -1,2 +1,0 @@
-# PigzApp Teste - Orange Labs
-
